@@ -1,0 +1,3 @@
+include PACKAGE.properties
+include README.md
+include space_radar/logging_config.ini
